@@ -1,0 +1,6 @@
+Flask==3.0.3
+Requests==2.31.0
+Mutagen==1.47.0
+Moviepy==1.0.3
+Pillow==10.3.0
+Pytube==15.0.0
